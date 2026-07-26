@@ -1,0 +1,6 @@
+{
+  "name": "Task Sync",
+  "description": "A modern task management app with real-time syncing simulation and full offline Room capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
